@@ -30,5 +30,7 @@ namespace Chernobyl
             frm20.Show();
             this.Hide();
         }
+
+       
     }
 }
