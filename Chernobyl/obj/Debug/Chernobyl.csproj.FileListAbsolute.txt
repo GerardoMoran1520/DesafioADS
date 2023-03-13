@@ -1,0 +1,23 @@
+C:\Users\drago\Downloads\DASVisual\Chernobyl\bin\Debug\Chernobyl.exe.config
+C:\Users\drago\Downloads\DASVisual\Chernobyl\bin\Debug\Chernobyl.exe
+C:\Users\drago\Downloads\DASVisual\Chernobyl\bin\Debug\Chernobyl.pdb
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.csproj.AssemblyReference.cache
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Gosse.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Properties.Resources.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.csproj.GenerateResource.cache
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.csproj.CoreCompileInputs.cache
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.exe
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.pdb
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Game.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Ja.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.JaScript.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Cherno.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Elegir.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Potter.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Marvel.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Perry.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Pytho.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Splash.resources
+C:\Users\drago\Downloads\DASVisual\Chernobyl\bin\Debug\Base de datos\Usuarios.mdf
+C:\Users\drago\Downloads\DASVisual\Chernobyl\bin\Debug\Base de datos\Usuarios_log.ldf
+C:\Users\drago\Downloads\DASVisual\Chernobyl\obj\Debug\Chernobyl.Loguearse.resources
